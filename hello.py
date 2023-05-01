@@ -2,6 +2,8 @@
 import click
 import glob
 
+# This is bad code intentionally
+# varbad=
 
 @click.command()
 @click.option(
